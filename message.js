@@ -1,7 +1,7 @@
 // Welcome message
 
 function welcomeMessage() {
-  return "Hello Emmanuel";
+  return "Hello Mbah Emmanuel Chukwuebuka";
 }
 
 module.exports = { welcomeMessage };
